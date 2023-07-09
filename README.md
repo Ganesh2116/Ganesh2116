@@ -31,7 +31,7 @@ Miscellaneous -
 
 ## Connect with me
 
-<p align="left" style="flex flex-col">
+<p align="left">
 <a href="" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
