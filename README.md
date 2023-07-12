@@ -38,7 +38,7 @@ Miscellaneous -
 <a href="https://www.linkedin.com/in/ganesh-bharti-089b60228/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ganesh_bharti" style="text-decoration:none">
+<a href="https://www.instagram.com/ganesh.bharti.1234/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </p>
