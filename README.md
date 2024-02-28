@@ -7,6 +7,7 @@
   obsessedWith: "Web Development🌐",
   hobbies: [
     "Driving",
+    "Farming",
   ]
 }
 ```
