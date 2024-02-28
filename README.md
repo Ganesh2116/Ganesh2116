@@ -24,9 +24,6 @@ Miscellaneous -
 
 <img src="https://skillicons.dev/icons?i=cpp,java,mysql" align="center">
 
-## Projects
-1. [ZET-App](https://zetapp-assignment-gkb.vercel.app/) - `https://zetapp-assignment-gkb.vercel.app/`
-
 
 
 ## Connect with me
