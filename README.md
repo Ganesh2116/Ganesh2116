@@ -4,7 +4,7 @@
 ```js
 {
   fullName: "Ganesh Kundlik Bharti
-  obsessedWith: "Web Development🌐",
+  obsessedWith: "Full Stack Developer🌐",
   hobbies: [
     "Driving",
     "Farming",
