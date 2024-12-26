@@ -3,7 +3,7 @@
 <!-- * The about section -->
 ```js
 {
-  fullName: "Ganesh Kundlik Bharti
+  fullName: "Ganesh Kundlik Bharti"
   obsessedWith: "Full Stack Developer🌐",
   hobbies: [
     "Driving",
